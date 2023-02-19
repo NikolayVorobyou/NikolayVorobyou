@@ -6,6 +6,10 @@
 <p><a href="https://www.linkedin.com/in/nikolay-vorobyou-785715263/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://scholar.google.ru/citations?hl=ru&user=ctoS3gsAAAAJ&view_op=list_works&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white" height=25></a></p>
 
 
+I'm Data Analyst with 3+ YoE in R&D (machine development and optimization), data analysis automation.
+I have successful experience in exploratory data analysis, hypotheses and their testing, searching for insights, planning and processing experiments, visualization, building models, making forecasts, automating data analysis processes. I have successful experience in leading research teams, including interviews, mentoring, planning, drafting terms of reference. I like to solve non-standard tasks, to find points of growth.
+
+
 
 
 <!--
