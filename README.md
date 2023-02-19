@@ -7,7 +7,7 @@
 
 
 I'm Data Analyst with 3+ YoE in R&D (machine development and optimization), data analysis automation.
-I have successful experience in exploratory data analysis, hypotheses and their testing, searching for insights, planning and processing experiments, visualization, building models, making forecasts, automating data analysis processes. I have successful experience in leading research teams, including interviews, mentoring, planning, drafting terms of reference. I like to solve non-standard tasks, to find points of growth.
+I have successful experience in exploratory data analysis, hypotheses and their testing, searching for insights, planning and processing experiments, visualization, building models, making forecasts, automating data analysis processes. I have successful experience in leading research teams, including interviews, mentoring, planning, drafting terms of reference. I like to solve non-standard tasks, to find points of growth. I want to develop together with a team of professionals and create cool digital products.
 
 
 
